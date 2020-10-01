@@ -11,9 +11,9 @@
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/psudorandom" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="psudorandom" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdul1337" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abdul1337" height="30" width="40" /></a>
-<a href="https://instagram.com/snap.that.now" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="snap.that.now" height="30" width="40" /></a>
+<a href="https://twitter.com/psudorandom" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="psudorandom" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdul1337" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abdul1337" height="30" width="40" /></a>
+<a href="https://instagram.com/snap.that.now" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="snap.that.now" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
