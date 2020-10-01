@@ -2,19 +2,6 @@
 
 My name is Abdul Aziz and I'm a Software eveloper. I'm from India, living in Jaipur. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/abdul1337/abdul1337">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul1337&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/abdul1337/abdul1337">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdul1337&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
-
-<a href="https://github.com/Abdul1337/Abdul1337.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abdul1337&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> 
-
 <!-- links to social media icons -->
 
 <!-- icons with padding -->
