@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Abdul Aziz</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi Folks👋,</h1>
+<h3 align="center"> I'm Abdul Aziz, A passionate Frontend Developer from India</h3>
 
 - 🌱 I’m currently learning **React JS**
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me **abdulaziz1337.99@gmail.com**
+- 📫 Reach me via **abdulaziz1337.99@gmail.com**
 
 - ⚡ Fun fact **I Love Coffee Code and of course Cats**
 
